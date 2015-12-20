@@ -1,0 +1,3 @@
+将src中的内容拷到matlab的bin文件夹下，然后输入main就可以运行整个函数了，程序运行完后会显示所有图像，
+其中add_noise.m是加噪声函数，mean_filter.m是所有滤波器的集合，equalize_hist.m和equalize_total.m是彩色
+图像的均衡化函数，main.m是输出所有图像的函数。
